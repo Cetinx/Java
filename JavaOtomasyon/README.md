@@ -1,36 +1,34 @@
 
+<h1>Java Swing Kişi Kayıt Otomasyonu</h1>
+<h2>Giriş Sayfası Vardır. Kullanici ve şifre bulunmak'dadır . Sonra kişi kayıt program Sayfası veri tabanı ile verilerimizi saklıyoruz</h2>
+<h3>Direk indirim çalıştıramazsınız ilk önce java driver nasıl kurulur ona bakmanız tavsiye ederim</h3>
+<h3>Veri tabanı olarak : Mysql kullaınıldı. dataname: kayıt0 ; Tablo isimleri : user ve newveri </h3>
+<h3>Zaten Kodu baktınız'da anlarsınız ama user giriş sayfası için kullanıldı kişi kayıt sayfası için newveri kullanıldı </h3>
 
-
-<h3>Yazılım Geliştirici Yetiştirme Kampı Ödevi</h3>
+<h3>Giriş Sayfası </h3>
 <img src="https://user-images.githubusercontent.com/82613065/116830773-73313600-abb4-11eb-8437-c1fd9061c47c.png" alt="Girl in a jacket" width="900">
-<h3>Yazılım Geliştirici Yetiştirme Kampı Ödevi</h3>
 
 
+<h3>Giriş Sayfası Denemesi </h3>
 <img src="https://user-images.githubusercontent.com/82613065/116830794-8cd27d80-abb4-11eb-8cdb-4b7691a278a3.png" alt="Girl in a jacket" width="900">
 
-<h3>Yazılım Geliştirici Yetiştirme Kampı Ödevi</h3>
 
 
+<h3>Giriş Sayfası Doğrulaması </h3>
 <img src="https://user-images.githubusercontent.com/82613065/116830804-952ab880-abb4-11eb-87f5-9fb9646465ba.png" alt="Girl in a jacket" width="900">
-<h3>Yazılım Geliştirici Yetiştirme Kampı Ödevi</h3>
 
 
-
+<h3>Kişi kayıt sayfası ekle sil düzenle ve çık gibi özelikleri vardır </h3>
 <img src="https://user-images.githubusercontent.com/82613065/116830807-9a880300-abb4-11eb-9446-93b73338f252.png" alt="Girl in a jacket" width="900">
-<h3>Yazılım Geliştirici Yetiştirme Kampı Ödevi</h3>
 
 
+<h3>Kişi kayıt sayfası test </h3>
 <img src="https://user-images.githubusercontent.com/82613065/116830810-9f4cb700-abb4-11eb-93f0-ed20b298aecb.png" alt="Girl in a jacket" width="900">
-<h3>Yazılım Geliştirici Yetiştirme Kampı Ödevi</h3>
+
 
 
 <ul>
-    <li> <a href="#">Odev2.1</a> </li>  
-	<ul>
-	<li><a href="https://user-images.githubusercontent.com/82613065/116830757-5eed3900-abb4-11eb-81e2-c09dbb6d31a2.png">1. Photo</a></li>
-         <li><a href="https://github.com/Cetinx/JavaWebTutorial/blob/main/Java%20Temelleri%202/Odev/Odev%202.1/src/Market.java">Market</a></li>
-         <li><a href="https://github.com/Cetinx/JavaWebTutorial/blob/main/Java%20Temelleri%202/Odev/Odev%202.1/src/araba.java">Araba</a></li>
-        </ul>
+ 
 
  		   
  </ul> 
