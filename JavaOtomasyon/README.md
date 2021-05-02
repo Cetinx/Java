@@ -1,6 +1,6 @@
 
-<h1>Java Swing Kişi Kayıt Otomasyonu</h1>
-<h2>Giriş Sayfası Vardır. Kullanici ve şifre bulunmak'dadır . Sonra kişi kayıt program Sayfası veri tabanı ile verilerimizi saklıyoruz</h2>
+<h2>Java Swing Kişi Kayıt Otomasyonu</h2>
+<h3>Giriş Sayfası Vardır. Kullanici ve şifre bulunmak'dadır . Sonra kişi kayıt program Sayfası vardır . Veri tabanı ile verilerimizi saklıyoruz</h3>
 <h3>Direk indirim çalıştıramazsınız ilk önce java driver nasıl kurulur ona bakmanız tavsiye ederim</h3>
 <h3>Veri tabanı olarak : Mysql kullaınıldı. dataname: kayıt0 ; Tablo isimleri : user ve newveri </h3>
 <h3>Zaten Kodu baktınız'da anlarsınız ama user giriş sayfası için kullanıldı kişi kayıt sayfası için newveri kullanıldı </h3>
