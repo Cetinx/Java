@@ -1,22 +1,26 @@
 
 
 
-
+<h3>Yazılım Geliştirici Yetiştirme Kampı Ödevi</h3>
 <img src="https://user-images.githubusercontent.com/82613065/116830773-73313600-abb4-11eb-8437-c1fd9061c47c.png" alt="Girl in a jacket" width="900">
 <h3>Yazılım Geliştirici Yetiştirme Kampı Ödevi</h3>
 
-![image](https://user-images.githubusercontent.com/82613065/116830794-8cd27d80-abb4-11eb-8cdb-4b7691a278a3.png)
-<h3>Yazılım Geliştirici Yetiştirme Kampı Ödevi</h3>
 
-![image](https://user-images.githubusercontent.com/82613065/116830804-952ab880-abb4-11eb-87f5-9fb9646465ba.png)
-<h3>Yazılım Geliştirici Yetiştirme Kampı Ödevi</h3>
+<img src="https://user-images.githubusercontent.com/82613065/116830794-8cd27d80-abb4-11eb-8cdb-4b7691a278a3.png" alt="Girl in a jacket" width="900">
 
-
-![image](https://user-images.githubusercontent.com/82613065/116830807-9a880300-abb4-11eb-9446-93b73338f252.png)
 <h3>Yazılım Geliştirici Yetiştirme Kampı Ödevi</h3>
 
 
-![image](https://user-images.githubusercontent.com/82613065/116830810-9f4cb700-abb4-11eb-93f0-ed20b298aecb.png)
+<img src="https://user-images.githubusercontent.com/82613065/116830804-952ab880-abb4-11eb-87f5-9fb9646465ba.png" alt="Girl in a jacket" width="900">
+<h3>Yazılım Geliştirici Yetiştirme Kampı Ödevi</h3>
+
+
+
+<img src="https://user-images.githubusercontent.com/82613065/116830807-9a880300-abb4-11eb-9446-93b73338f252.png" alt="Girl in a jacket" width="900">
+<h3>Yazılım Geliştirici Yetiştirme Kampı Ödevi</h3>
+
+
+<img src="https://user-images.githubusercontent.com/82613065/116830810-9f4cb700-abb4-11eb-93f0-ed20b298aecb.png" alt="Girl in a jacket" width="900">
 <h3>Yazılım Geliştirici Yetiştirme Kampı Ödevi</h3>
 
 
