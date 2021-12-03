@@ -1,0 +1,25 @@
+package intro;
+public class Main {
+  public static void main(String[] args) {
+	 
+   String[] Krediler = {
+                "Hızlı Kredi" , 
+                 "Mutlu emekli Kredi",
+                 "Konut Kredisi",
+                 "Çiftçi Kredisi",
+                 "msb Kredisi ",
+                  "meb kredisi",
+            };
+
+        for(String Kredi : Krediler) {
+            System.out.println(Kredi);
+        }
+      
+        for(int i = 0 ; i <Krediler.length;i++) {
+            System.out.println(Krediler[i]);
+        }
+
+
+        
+     }
+}
